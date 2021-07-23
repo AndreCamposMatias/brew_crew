@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861547935636",
+    "project_id": "andyfirebasics",
+    "storage_bucket": "andyfirebasics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861547935636:android:dcba2658647c000510c181",
+        "android_client_info": {
+          "package_name": "com.andy.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861547935636-a4h8kkpm0boh1s0684vo29h2dpq4229g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWU6kY_GrpIgrpCMtzYRj58tcV-ynQckE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861547935636-a4h8kkpm0boh1s0684vo29h2dpq4229g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
